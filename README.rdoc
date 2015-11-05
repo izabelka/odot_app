@@ -15,4 +15,4 @@ You can:
 
 * Mark the items as completed
 
-It's finished (according to course), however I think I should work a little bin on css here.
+It's finished (according to course), however I think I should work a little bit on css here.
